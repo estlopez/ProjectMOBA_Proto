@@ -1,13 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.13",
+	"EngineAssociation": "5.2",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "RunebergVRPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4dfd0c5b4c97427c860bd2cf7c207136"
-		}
-	]
+	"Description": ""
 }
